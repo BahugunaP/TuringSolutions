@@ -1,0 +1,15 @@
+C:\Projects\Turing\TuringSolutions\AsyncAwait\bin\Debug\net8.0\AsyncAwait.exe
+C:\Projects\Turing\TuringSolutions\AsyncAwait\bin\Debug\net8.0\AsyncAwait.deps.json
+C:\Projects\Turing\TuringSolutions\AsyncAwait\bin\Debug\net8.0\AsyncAwait.runtimeconfig.json
+C:\Projects\Turing\TuringSolutions\AsyncAwait\bin\Debug\net8.0\AsyncAwait.dll
+C:\Projects\Turing\TuringSolutions\AsyncAwait\bin\Debug\net8.0\AsyncAwait.pdb
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfo.cs
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.sourcelink.json
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.dll
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\refint\AsyncAwait.dll
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.pdb
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\AsyncAwait.genruntimeconfig.cache
+C:\Projects\Turing\TuringSolutions\AsyncAwait\obj\Debug\net8.0\ref\AsyncAwait.dll

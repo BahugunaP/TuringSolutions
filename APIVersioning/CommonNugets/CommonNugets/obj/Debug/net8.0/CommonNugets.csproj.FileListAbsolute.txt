@@ -1,0 +1,12 @@
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\bin\Debug\net8.0\CommonNugets.deps.json
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\bin\Debug\net8.0\CommonNugets.dll
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\bin\Debug\net8.0\CommonNugets.pdb
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.AssemblyInfoInputs.cache
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.AssemblyInfo.cs
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.csproj.CoreCompileInputs.cache
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.sourcelink.json
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.dll
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\refint\CommonNugets.dll
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\CommonNugets.pdb
+C:\Projects\Turing\TuringSolutions\APIVersioning\CommonNugets\CommonNugets\obj\Debug\net8.0\ref\CommonNugets.dll

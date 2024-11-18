@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ClickMinds.SharedCode</id>
+    <version>1.0.0</version>
+    <authors>PankajBahguna</authors>
+    <owners>ClickMinds</owners>
+    <description>Shared code for product-related interfaces.</description>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/BahugunaP/TuringSolutions.git</projectUrl>
+    <tags>shared code</tags>
+  </metadata>
+</package>
